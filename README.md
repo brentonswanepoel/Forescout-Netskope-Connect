@@ -5,8 +5,6 @@ Forescout eyeExtend Connect NETSKOPE APP README.md
 
 - Have feedback or questions? Write to us at
 
-        **[connect-app-help@forescout.com](mailto:connect-app-help@forescout.com)**
-
 ## APP Support
 
 - All eyeExtend Connect Apps posted here are community contributed and community supported. These Apps are not supported by the Forescout Customer Support team.
